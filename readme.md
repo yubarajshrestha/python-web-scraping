@@ -1,1 +1,2 @@
-[code]python main.py[/code]
+### RUN
+python main.py
